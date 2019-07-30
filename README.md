@@ -2,3 +2,4 @@ Crawl Reddit for recommendations using this retro interface. Results were curate
 
 App was split up into two components - a React based frontend & a rudimentary API built using Flask & Spacy.
 
+![alt-text](https://github.com/vaibhavbafna5/tl-dr/blob/master/tldr_demo.png)
